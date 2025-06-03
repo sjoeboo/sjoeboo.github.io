@@ -12,22 +12,3 @@ params:
     enabled: true
     title: "Hello. I'm Matt." # optional default will be site title
     subtitle: "Senior SRE, Dad, and more"
-
-  socialIcons: # optional
-    - name: "github"
-      url: "https://github.com/sjoeboo"
-    - name: "linkedin"
-      url: "https://www.linkedin.com/in/matthew-nicholson-5809473/"
-    - name: "mastodon"
-      url: "https://hachyderm.io/@sjoeboo"
-      html_attributes: "rel=\"me\"" 
-    - name: "twitter"
-      url: "http://twitter.com/sjoeboo"
-    - name: "instagram"
-      url: "https://instagram.com/sjoeboo"
-    - name: "spotify"
-      url: "https://open.spotify.com/user/sjoeboo"
-    - name: "keybase"
-      url: "https://keybase.io/sjoeboo"
-    - name: "reddit"
-      url: "https://www.reddit.com/user/sjoeboo"
